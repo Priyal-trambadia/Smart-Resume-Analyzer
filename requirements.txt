@@ -6,3 +6,4 @@ numpy
 pdfplumber
 spacy
 fpdf2
+PyMuPDF
